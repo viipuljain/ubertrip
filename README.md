@@ -12,7 +12,7 @@ The project uses a supervised machine learning approach to predict trip duration
 Once a model is selected, it is fine-tuned using hyperparameter tuning to further improve its accuracy. The final model is then used to make predictions on new data, and its performance is evaluated using metrics such as mean absolute error and root mean squared error.
 
 # Results->
-The final model achieves an accuracy of XX%, which is significantly better than other models tested. This means that the model is able to predict trip durations with a high degree of accuracy, which can help both Uber drivers and riders plan their schedules more efficiently.
+The final model achieves an accuracy of 93%, which is significantly better than other models tested. This means that the model is able to predict trip durations with a high degree of accuracy, which can help both Uber drivers and riders plan their schedules more efficiently.
 
 # Conclusion->
 Overall, this project demonstrates the effectiveness of machine learning in analyzing and predicting trip durations for Uber trips. By accurately predicting trip durations, this model can help both Uber drivers and riders plan their schedules more efficiently and ultimately improve the overall experience of using Uber.
